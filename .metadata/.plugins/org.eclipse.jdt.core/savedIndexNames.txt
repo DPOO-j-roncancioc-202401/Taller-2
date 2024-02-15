@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\juanr\OneDrive\Desktop\Uniandes\2024-10\DPOO\anexo\nTaller2EstructurasEsqueleto\.metadata\.plugins\org.eclipse.jdt.core
+4255255760.index
+1865797976.index
+2861379450.index
